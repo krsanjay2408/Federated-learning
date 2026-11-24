@@ -1,0 +1,2 @@
+round,participating,retained,rejected,mean_client_loss,validation_loss,validation_accuracy,minority_frr,majority_frr,overall_frr,constant_columns,two_value_columns,normal_columns,used_fallback
+1,0;7;8;11,0;7;11,8,2.187717199899532,2.164270487467448,0.364,,0.25,0.25,3,1,36,False

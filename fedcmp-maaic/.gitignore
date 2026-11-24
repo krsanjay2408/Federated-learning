@@ -1,0 +1,46 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Dataset files
+/data/
+/datasets/
+**/MNIST/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Temporary and backup files
+*_backup.py
+*.bak
+*.tmp
+*.log
+
+# Credentials and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db

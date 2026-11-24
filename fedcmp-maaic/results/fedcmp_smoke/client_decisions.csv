@@ -1,0 +1,5 @@
+round,client_id,designated_role,actual_malicious,vote_count,retained,num_samples
+1,0,honest_majority,False,16,True,2700
+1,7,honest_majority,False,15,True,2700
+1,8,honest_majority,False,11,False,2700
+1,11,honest_majority,False,16,True,2700
